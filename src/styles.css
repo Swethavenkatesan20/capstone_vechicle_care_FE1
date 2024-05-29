@@ -1,0 +1,9 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://img.freepik.com/premium-photo/car-service-centre-auto-repair-workshop-blurred-panoramic-background_293060-5326.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
